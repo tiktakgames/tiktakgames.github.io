@@ -6,12 +6,14 @@ h1 {
 }
 body {
     font-family:"helvetica"; font-weight: bold;
+    text-align: center;
 }
 button {
-    font-family:"helvetica"; font-weight: bold; color: rgb(77, 77, 77)
+    font-family:"helvetica"; font-weight: bold; color: rgb(77, 77, 77);
 }
 input {
-    font-family:"helvetica"; font-weight: bold; color: rgb(49, 49, 49)
+    font-family:"helvetica"; font-weight: bold; color: rgb(49, 49, 49);
+    padding-right: 500px;
 }
 .down {
     text-align: center;
