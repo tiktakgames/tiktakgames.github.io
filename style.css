@@ -7,3 +7,10 @@ h1 {
 body {
     font-family:"helvetica"; font-weight: bold;
 }
+.down {
+    text-align: center;
+    color: white;
+    background-color: rgb(105, 105, 105);
+    border: solid;
+    border-radius: 10px;
+}
