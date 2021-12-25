@@ -34,3 +34,6 @@ h2 {
 h3 {
     color: white;
 }
+input {
+    border-radius: 7px;
+}
