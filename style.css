@@ -23,6 +23,7 @@ button {
     border: solid;
     border-radius: 10px;
     background-color: rgb(49, 49, 49);
+    padding: 10px;
 }
 .down {
     text-align: center;
