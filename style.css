@@ -19,9 +19,11 @@ button {
     height: 30px;
 }
 .text {
-    font-family:"helvetica"; font-weight: bold; color: rgb(49, 49, 49);
+    font-family:"helvetica"; font-weight: bold; color: rgb(189, 189, 189);
+    padding-right: 500px;
     border: solid;
     border-radius: 10px;
+    background-color: rgb(49, 49, 49)
 }
 .down {
     text-align: center;
