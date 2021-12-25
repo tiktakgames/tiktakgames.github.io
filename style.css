@@ -35,5 +35,5 @@ h3 {
     color: white;
 }
 input {
-    border-radius: 7px;
+    border-radius: 7px 7px 7px 7px;
 }
