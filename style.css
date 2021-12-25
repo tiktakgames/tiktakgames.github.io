@@ -20,8 +20,6 @@ button {
 }
 .text {
     font-family:"helvetica"; font-weight: bold; color: rgb(49, 49, 49);
-    background-color: rgb(49, 49, 49);
-    padding: 10px;
     border: solid;
     border-radius: 10px;
 }
