@@ -37,5 +37,6 @@ h3 {
 input {
     border-radius: 7px 7px 7px 7px;
     background-color: rgb(49, 49, 49);
-    height: 20px;
+    height: 25px;
+    color: rgb(165, 165, 165);
 }
