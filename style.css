@@ -8,6 +8,8 @@ body {
     font-family:"helvetica"; font-weight: bold;
     text-align: center;
     background-color: rgb(36, 36, 36);
+    margin: 0px;
+    padding: 0px;
 }
 button {
     font-family:"helvetica"; font-weight: bold; color: rgb(77, 77, 77);
@@ -40,4 +42,8 @@ input {
     height: 25px;
     color: rgb(255, 255, 255);
     border: solid rgb(49, 49, 49);
+}
+.new-website-banner {
+    border: rgb(111, 0, 255) solid;
+    background-color: rgb(111, 0, 255);
 }
