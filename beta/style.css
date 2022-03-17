@@ -14,7 +14,7 @@
 body {
     background-color: #202020;
     color: white;
-    font-family: 'Product Sans', sans-serif;
+    font-family: psans, sans-serif;
 }
 .starting-header {
     margin-left: 30px;
@@ -95,8 +95,8 @@ button:active {
     filter: brightness(70%);
 }
 @font-face {
-    font-family: 'Product Sans';
+    font-family: 'psans';
     font-style: normal;
     font-weight: 400;
-    src: local('Product Sans'), url('https://fonts.cdnfonts.com/s/13998/ProductSans-Regular.woff') format('woff');
+    src: url('fonts/psans.ttf');
 }
