@@ -6,6 +6,7 @@
     display: block;
     padding-top: 25px;
     padding-bottom: 25px;
+    filter: opacity(90%);
 }
 *{
     margin: 0px;
@@ -105,4 +106,14 @@ button:active {
     text-align: center;
     padding-left: 100px;
     padding-right: 100px;
+}
+input {
+    background-color: #303030;
+    border: solid #303030;
+    border-radius: 100px;
+    color: #FFFFFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
