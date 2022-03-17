@@ -100,3 +100,8 @@ button:active {
     font-weight: 400;
     src: url('fonts/psans.ttf');
 }
+.udev-buttons {
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
