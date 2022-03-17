@@ -71,6 +71,7 @@ button {
     padding-left: 10px;
     padding-right: 10px;
     border-radius: 100px;
+    cursor: pointer;
 }
 button:hover {
     background-color: #303030;
