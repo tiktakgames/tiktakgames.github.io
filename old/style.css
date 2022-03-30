@@ -1,0 +1,49 @@
+.center {
+    text-align: center;
+}
+h1 {
+    color: rgb(111, 0, 255)
+}
+body {
+    font-family:"helvetica"; font-weight: bold;
+    text-align: center;
+    background-color: rgb(36, 36, 36);
+    margin: 0px;
+    padding: 0px;
+}
+button {
+    font-family:"helvetica"; font-weight: bold; color: rgb(77, 77, 77);
+    border: solid rgb(49, 49, 49);
+    border-radius: 50px;
+    color:rgb(255, 255, 255);
+    background-color: rgb(49, 49, 49);
+    text-size-adjust: 20px;
+    height: 30px;
+}
+.down {
+    text-align: center;
+    color: rgb(49, 49, 49);
+    background-color: rgb(49, 49, 49);
+    border: solid;
+    border-radius: 10px;
+}
+p {
+    color: white;
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+input {
+    border-radius: 50px 50px 50px 50px;
+    background-color: rgb(49, 49, 49);
+    height: 25px;
+    color: rgb(255, 255, 255);
+    border: solid rgb(49, 49, 49);
+}
+.new-website-banner {
+    border: rgb(111, 0, 255) solid;
+    background-color: rgb(111, 0, 255);
+}
