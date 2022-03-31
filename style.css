@@ -117,3 +117,20 @@ input {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+.project {
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: #252525;
+    text-align: center;
+}
+.pimage {
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.ptext {
+    text-align: center;
+    margin-bottom: 10px;
+}
